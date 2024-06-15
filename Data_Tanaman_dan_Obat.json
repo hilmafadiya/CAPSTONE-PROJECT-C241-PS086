@@ -1,0 +1,442 @@
+[
+    {
+        "namaTanaman": "Apple Black Root",
+        "responTanaman": "Apple__black_rot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Apple Healthy",
+        "responTanaman": "Apple__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Apple Rust",
+        "responTanaman": "Apple__rust",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Apple Scab",
+        "responTanaman": "Apple__scab",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Cassava Bacterial Blight",
+        "responTanaman": "Cassava__bacterial_blight",
+        "obat": "Copper fungicide"
+    },
+    {
+        "namaTanaman": "Cassava Brown Streak Disease",
+        "responTanaman": "Cassava__brown_streak_disease",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Cassava Green Mottle",
+        "responTanaman": "Cassava__green_mottle",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Cassava Healthy",
+        "responTanaman": "Cassava__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Cassava Mosaic Disease",
+        "responTanaman": "Cassava__mosaic_disease",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Cherry Healthy",
+        "responTanaman": "Cherry__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Cherry Powdery Mildew",
+        "responTanaman": "Cherry__powdery_mildew",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Chili Healthy",
+        "responTanaman": "Chili__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Chili Leaf Curl",
+        "responTanaman": "'Chili__leaf curl'",
+        "obat": "Insecticides, Neem oiltnya"
+    },
+    {
+        "namaTanaman": "Chili Leaf Spot",
+        "responTanaman": "'Chili__leaf spot'",
+        "obat": "Fungicide, Neem oil"
+    },
+    {
+        "namaTanaman": "Chili Whitefly",
+        "responTanaman": "Chili__whitefly",
+        "obat": "Insecticidal soaps, Neem oil"
+    },
+    {
+        "namaTanaman": "Chili Yellowish",
+        "responTanaman": "Chili__yellowish",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Coffee Cercospora Leaf Spot",
+        "responTanaman": "Coffee__cercospora_leaf_spot",
+        "obat": "Copper ungicides"
+    },
+    {
+        "namaTanaman": "Coffee Healthy",
+        "responTanaman": "Coffee__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Coffee Red Spider Mite",
+        "responTanaman": "Coffee__red_spider_mite",
+        "obat": "Acaricides (Miticides)"
+    },
+    {
+        "namaTanaman": "Coffee Rust",
+        "responTanaman": "Coffee__rust",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Corn Common Rust",
+        "responTanaman": "Corn__common_rust",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Corn Gray Leaf",
+        "responTanaman": "Corn__gray_leaf_spot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Corn Healthy",
+        "responTanaman": "Corn__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Corn Northern Leaf Blight",
+        "responTanaman": "Corn__northern_leaf_blight",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Cucumber Diseased",
+        "responTanaman": "Cucumber__diseased",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Cucumber Healthy",
+        "responTanaman": "Cucumber__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Gauva Diseased",
+        "responTanaman": "Gauva__diseased",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Gauva Healthy",
+        "responTanaman": "Gauva__healthy",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Grape Black Measles",
+        "responTanaman": "Grape__black_measles",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Grape Black Rot",
+        "responTanaman": "Grape__black_rot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Grape Healthy",
+        "responTanaman": "Grape__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Grape Leaf Blight (isariopsis leaf spot)",
+        "responTanaman": "'Grape__leaf_blight_(isariopsis_leaf_spot)'",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Jamun Diseased",
+        "responTanaman": "Jamun__diseased",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Jamun Healthy",
+        "responTanaman": "Jamun__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Lemon Diseased",
+        "responTanaman": "Lemon__diseased",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Lemon Healthy",
+        "responTanaman": "Lemon__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Mango Diseased",
+        "responTanaman": "Mango__diseased",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Mango Healthy",
+        "responTanaman": "Mango__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Peach Bacterial Spot",
+        "responTanaman": "Peach__bacterial_spot",
+        "obat": "Copper Fungicide"
+    },
+    {
+        "namaTanaman": "Peach Healthy",
+        "responTanaman": "Peach__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Pepper Bell Bacterial Spot",
+        "responTanaman": "Pepper_bell__bacterial_spot",
+        "obat": "Copper Fungicide"
+    },
+    {
+        "namaTanaman": "Pepper Bell Healthy",
+        "responTanaman": "Pepper_bell__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Pomegranate Diseased",
+        "responTanaman": "Pomegranate__diseased",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": " Pomegranate Healthy",
+        "responTanaman": " Pomegranate__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Potato Early Blight",
+        "responTanaman": "Potato__early_blight",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Potato Healthy",
+        "responTanaman": "Potato__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Potato Late Blight",
+        "responTanaman": "Potato__late_blight",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Rice Brown Spot",
+        "responTanaman": "Rice__brown_spot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Rice Healthy",
+        "responTanaman": "Rice__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Rice Hispa",
+        "responTanaman": "Rice__hispa",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Rice Leaf Blast",
+        "responTanaman": "Rice__leaf_blast",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Rice Neck Blast",
+        "responTanaman": "Rice__neck_blast",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Soybean Bacterial Blight",
+        "responTanaman": "Soybean__bacterial_blight",
+        "obat": "Copper Fungicide"
+    },
+    {
+        "namaTanaman": "Soybean Caterpillar",
+        "responTanaman": "Soybean__caterpillar",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Soybean Diabrotica Speciosa",
+        "responTanaman": "Soybean__diabrotica_speciosa",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Soybean Downy Mildew",
+        "responTanaman": "Soybean__downy_mildew",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Soybean Healthy",
+        "responTanaman": "Soybean__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Soybean Mosaic Virus",
+        "responTanaman": "Soybean__mosaic_virus",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Soybean Powdery Mildew",
+        "responTanaman": "Soybean__powdery_mildew",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Soybean Rust",
+        "responTanaman": "Soybean__rust",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Soybean Southern Blight",
+        "responTanaman": "Soybean__southern_blight",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Strawberry Healthy",
+        "responTanaman": "Strawberry__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Strawberry Leaf Scorch",
+        "responTanaman": "Strawberry___leaf_scorch",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Sugarcane Bacterial Blight",
+        "responTanaman": "Sugarcane__bacterial_blight",
+        "obat": "Copper Fungicide"
+    },
+    {
+        "namaTanaman": "Sugarcane Healthy",
+        "responTanaman": "Sugarcane__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Sugarcane Red Rot",
+        "responTanaman": "Sugarcane__red_rot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Sugarcane Red Stripe",
+        "responTanaman": "Sugarcane__red_stripe",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Sugarcane Rust",
+        "responTanaman": "Sugarcane__rust",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tea Algal Leaf",
+        "responTanaman": "Tea__algal_leaf",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tea Anthracnose",
+        "responTanaman": "Tea__anthracnose",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tea Bird Eye Spot",
+        "responTanaman": "Tea__bird_eye_spot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tea Brown Blight",
+        "responTanaman": "Tea__brown_blight",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tea Healthy",
+        "responTanaman": "Tea__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Tea Red Leaf Spot",
+        "responTanaman": "Tea__red_leaf_spot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tomato Bacterial Spot",
+        "responTanaman": "Tomato__bacterial_spot",
+        "obat": "Copper Fungicide"
+    },
+    {
+        "namaTanaman": "Tomato Early Blight",
+        "responTanaman": "Tomato__early_blight",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tomato Healthy",
+        "responTanaman": "Tomato__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Tomato Late Blight",
+        "responTanaman": "Tomato__late_blight",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tomato Leaf Mold",
+        "responTanaman": "Tomato__leaf_mold",
+        "obat": "Copper Fungicides, Methyl Bromide"
+    },
+    {
+        "namaTanaman": "Tomato Mosaic Virus",
+        "responTanaman": "Tomato__mosaic_virus",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Tomato Septoria Leaf Spot",
+        "responTanaman": "Tomato__septoria_leaf_spot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tomato Spider Mites (two spotted spider mite)",
+        "responTanaman": "'Tomato__spider_mites_(two_spotted_spider_mite)'",
+        "obat": "Acaricides (Amitraz, Abamectin,,Hexythiazox,Spiromesifen,Bifenazate)"
+    },
+    {
+        "namaTanaman": "Tomato Target Spot",
+        "responTanaman": "Tomato__target_spot",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Tomato Yellow Leaf Curl Virus",
+        "responTanaman": "Tomato__yellow_leaf_curl_virus",
+        "obat": "Insecticides"
+    },
+    {
+        "namaTanaman": "Wheat Brown Rust",
+        "responTanaman": "Wheat__brown_rust",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": " Wheat Healthy",
+        "responTanaman": "Wheat__healthy",
+        "obat": "None"
+    },
+    {
+        "namaTanaman": "Wheat Septoria",
+        "responTanaman": "Wheat__septoria",
+        "obat": "Fungicide"
+    },
+    {
+        "namaTanaman": "Wheat Yellow Rust",
+        "responTanaman": "Wheat__yellow_rust",
+        "obat": "Fungicide"
+    }
+]
